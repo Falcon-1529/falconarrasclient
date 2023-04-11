@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "firebase-tools": "^11.25.3",
+    "surge": "^0.23.1",
+    "netlify-cli": "^13.2.2",
+    "heroku": "^7.42.13",
+    "netlify": "^13.1.4"
+  },
+  "scripts": {
+    "start": "ws --port 3000 --log.format combined --directory . --blacklist '/.env' '/.data' '/.git'"
+  }
+}
