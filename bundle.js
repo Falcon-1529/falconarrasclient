@@ -268,7 +268,7 @@ if (document.addEventListener) {
           case 35:
             return "#ffd300";
           case 36:
-            return "#" + Math.floor(Math.random() * 16777215).toString(39);//rainbow
+            return '#' + Math.floor(Math.random() * 16777215).toString(16);//rainbow
           case 37:
             return "#00ff08";
           case 38:
