@@ -268,7 +268,7 @@ if (document.addEventListener) {
           case 35:
             return "#ffd300";
           case 36:
-            return '#' + Math.floor(Math.random() * 16777215).toString(16);//rainbow
+            return '#' + Math.floor(Math.random() * 16777215).toString(16); //rainbow
           case 37:
             return "#00ff08";
           case 38:
@@ -301,7 +301,7 @@ if (document.addEventListener) {
             return "#7300ff";//violet
              case 51:
             return "#ee00ff";//pink
-          case 52:
+             case 52:
             return g.globalAlpha = 0;
      
             
@@ -3171,14 +3171,16 @@ if (document.addEventListener) {
                         ["Teaming in FFA or FFA Maze is frowned upon, but when taken to the extremes, you can be punished.", "Witch hunting is when you continuously target someone and follow them. This is frowned upon, but when taken to the extremes, you can be punished.",
                             "Multiboxing is when you use a script to control multiple tanks at the same time. This is considered CHEATING and will result in a ban."
                         ],
-                      ["You are gay",
+                      [
                        "Zelda is hot af",
-                       "Suggest tank ideas in the discord server! :)",
+                      "Tfw no demon girl gf",
+                      "No maidens?",
+                        "The lack of female affection?",
+                       "Suggest tank ideas in the discord server! :). Sike! There isn't one - contact Falcon-chan#9446 on Discord!",
                        "Thanos thicc",
                        "Ur mum gae",
-                       "Omba",
-                       "Hail tnuc",
                        "Legenda is hot",
+                      "Imagine playing 2d ball game! LOL!",
                        "A nor'easter is a macro-scale extratropical cyclone in the western North Atlantic Ocean. The name derives from the direction of the winds that blow from the northeast. ",
                        
                       ]
@@ -3481,8 +3483,8 @@ if (document.addEventListener) {
                     untrusted: !0
                 }, {
                     id: "2",
-                    type: "2tdm",
-                    code: "falconarras-heroku-virginia",
+                    type: "otdm",
+                    code: "falconarras-glitch",
                     at: p.glitch("falcon-1529-official"),
                 },].map((a, e) => ({
                     data: a,
@@ -3991,7 +3993,7 @@ if (document.addEventListener) {
                                                 let k = URL.createObjectURL(a),
                                                     q = document.createElement("a");
                                                 q.style.display = "none";
-                                                q.setAttribute("download", "video.webm");
+                                                q.setAttribute("download", "video.mp4");
                                                 q.setAttribute("href",
                                                     k);
                                                 document.body.appendChild(q);
