@@ -7,7 +7,6 @@
 - Added the Cloud Branch, includes Cloud, Nimbostratus, and Cumulonimbus (more to come later).
 - FINALLY branched the Polychrome into the rainbow tanks, will retexture the tanks later on.
 - Gamemode is ffa
-- Removed The Omega Raper Boss for "debuffing"
 
 # 8/9/20
 
